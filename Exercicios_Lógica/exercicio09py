@@ -1,0 +1,4 @@
+def hello(meu_nome,idade):
+  print('olá %s! \nsua idade é %d' %(meu_nome, idade))
+
+hello('Ana',25)
